@@ -7,6 +7,7 @@
 <a href="mailto: wible003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
+<br/>
 
 동국대학교 컴퓨터공학과 `[2020.03 ~ ing]`
 
