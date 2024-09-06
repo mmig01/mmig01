@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&animation=twinkling" width="100%" />
 
-## 🚶🏼 김민기
+## 📸 Mingi Kim
 
 <div>
 <a href="https://www.instagram.com/mmig_01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
