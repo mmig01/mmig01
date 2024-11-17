@@ -11,7 +11,9 @@
 
 동국대학교 컴퓨터공학과 `[2020.03 ~ ing]`
 
-동국대학교 멋쟁이사자처럼 `[2024.03 ~ ing]`   
+동국대학교 멋쟁이사자처럼 `[2024.03 ~ 2024.12]`   
+
+동국대학교 SW 교육원 서버 관리자 `[2024.06 ~ ing]`
 
 동국대학교 CPET Lab 학부연구생`[2024.09 ~ 2025.2]`  
 
@@ -23,9 +25,9 @@
 | -------------------------------------------- | :-----------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------: |
 | 동국대 구성원을 위한 정각원 서비스, **온정** |    Django     | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> | [Github Repo](https://github.com/LikeLion-at-DGU/2024-simba-3-Dandelion.git) |
 | 여행지 랜덤 추천 서비스, **삶은 기차**       |    Django     | 2024.07 ~ 2024.08 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> | [Github Repo](https://github.com/LikeLion-at-DGU/2024-hackathon-1-boiledtrain-backend.git) |
-| 동국대 멋사를 위한 스터디 사이트, DMHUB      |    Flutter    |     2024.09 ~     | <img src="https://img.shields.io/badge/-Individual-pink"/> |           [Site](https://mmig01.github.io/dmhub/)            |
-| 동국대학교 가을 대동제 축제 사이트 제작      | React, Django | 2024.09 ~ 2024.10 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> |                            [Site]                            |  
-<br/>
+| 동국대 멋사를 위한 스터디 사이트, **DMHUB** |    Flutter    |     2024.09 ~     | <img src="https://img.shields.io/badge/-Individual-pink"/> |           [Site](https://mmig01.github.io/dmhub/)            |
+| 동국대학교 **가을 대동제 축제 사이트** 제작  | React, Django | 2024.09 ~ 2024.10 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> |                            [Site](https://www.dgu-booth.site/)                            |
+|대학생들을 위한 해커톤 프로젝트 등록 플랫폼, **P-ROG**|React, Django|2024.10 ~ 2024.11|<img src="https://img.shields.io/badge/-LikeLion-orange"/>|[Site](https://p-rog.netlify.app/)|
 
 ## 🌱 Experiences
 
@@ -34,6 +36,9 @@
 <a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼 자체 해커톤 (심바톤) `[2024.06]`
 
 <a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 멋쟁이사자처럼 연합 해커톤 `[2024.08]`
+
+<a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 멋쟁이사자처럼 4호선톤 `[2024.11]`
+
 
 
 <br/>  
